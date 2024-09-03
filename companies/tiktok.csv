@@ -1,4 +1,4 @@
-problem_link,problem_name,num_occur
+problem_number,problem_link,problem_name,num_occur
 https://leetcode.com/problems/plates-between-candles/,Plates Between Candles,3
 https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/,The Number of Weak Characters in the Game,3
 https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/,Minimum Time to Type Word Using Special Typewriter,3
